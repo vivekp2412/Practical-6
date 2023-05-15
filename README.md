@@ -1,6 +1,6 @@
 # Staging Branch
 
-Below Given is the Hoisted Link for the Development enviroment
+Below Given is the Hoisted Link for the Staging enviroment
 
 Netlify Link:-[https://staging-user-list-app.netlify.app/](https://staging-user-list-app.netlify.app/)
 
