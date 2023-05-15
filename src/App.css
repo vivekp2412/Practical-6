@@ -3,6 +3,9 @@
     Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
 }
+.mode-name {
+  text-align: center;
+}
 .table-card-container {
   background-color: white;
   margin: 3rem;
